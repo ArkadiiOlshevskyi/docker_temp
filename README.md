@@ -1,1 +1,1 @@
-# docker_temp
+# Docker container file templates for easy start
